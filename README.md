@@ -4,6 +4,4 @@
 =  
 
 Seidikit perubahan
-
------
 masa iya
