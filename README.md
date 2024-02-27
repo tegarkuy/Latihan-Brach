@@ -3,7 +3,4 @@
 
 =  
 
-
-**Perubahan sedikit yang dilakukan ygy*
 **Sedikit Perubahan**
-
