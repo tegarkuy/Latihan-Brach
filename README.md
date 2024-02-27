@@ -4,6 +4,7 @@
 =  
 
 
-**Perubahan sedikit yang dilakukan ygy*
-**Sedikit Perubahan**
+**Perubahan sedikit yang dilakukan ygy*  
+**Sedikit Perubahan**  
+Perubahan ini dilakukan untuk membuat tampilan lebih rapih
 
